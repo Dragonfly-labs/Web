@@ -1,0 +1,73 @@
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+
+header{
+    width: 1920px;
+    height: 80px;
+    background-color: LightSteelBlue;
+}
+
+.logo {
+    width: 1000px;
+    float: left;
+    height: 80px;
+}
+
+.logo a {
+    display: block;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 70px;
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.logo p {
+    margin-top: -10px;
+    margin-left: 100px;
+    font: Arial;
+    font-size: 25px;
+    color: white;
+}
+
+
+.SiteName {
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 70px;
+}
+
+.auth {
+    width: 100px;
+    float: right;
+    margin-right: 40px;
+    height: 80px;
+}
+
+.auth p {
+    margin-top: 12;
+    text-align: center;
+    margin-bottom: 8px;
+}
+
+.auth a {
+    text-decoration: none;
+    color: white;
+    font: Arial;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+
+body{
+        background: #000033; /* Цвет фона и путь к файлу */
+}
